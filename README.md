@@ -175,5 +175,4 @@ References:
 1. National Agriculture Market (e-NAM). Government of India Agricultural Trading Platform. https://enam.gov.in/
 2. AGMARKNET / Open Government Data Platform India. Daily Price and Arrival Report, Agricultural Market-Price Dataset. https://agmarknet.gov.in/daily-price-and-arrival-report
 3. Reserve Bank of India (Department of Economic and Policy Research). Agriculture Supply Chain Dynamics: Evidence from Pan-India Survey. RBI Bulletin, 18 January 2024. https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22326&utm
-4. Django Software Foundation. User Authentication in Django, Authentication and Permissions Documentation. https://docs.djangoproject.com/en/6.1/topics/auth/
-5. NITI Aayog. Compendium of 75 Agri Entrepreneurs and Innovators (Farmpal Case Study). https://www.niti.gov.in/node/555
+4. NITI Aayog. Compendium of 75 Agri Entrepreneurs and Innovators (Farmpal Case Study). https://www.niti.gov.in/node/555
