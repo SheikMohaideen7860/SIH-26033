@@ -112,7 +112,8 @@ The initial working prototype is designed to verify that the core ordering and g
 * Order-status updates and an administrator oversight dashboard.
 
 At the prototype stage, payments will be simulated and routing will run on sample delivery data. Real payment gateways, live GPS location tracking, and external market-data integration can be added once the core workflow functions reliably.
-
+FLOW CHART:
+![alt text](<Screenshot (32).png>)
 ## Feasibility and Viability
 Feasibility Analysis:
 * Technical Feasibility: The application can be developed using widely available web technologies. Django's authentication and permission system natively supports user accounts, groups, and access controls, making it well suited for separating farmer, consumer, and administrator roles.
